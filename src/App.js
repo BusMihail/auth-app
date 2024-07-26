@@ -88,7 +88,7 @@ const App = () => {
           <div className="hero-content">
             <h1>Welcome to the Auth App</h1>
             <p className="fade-in">
-              Hello! My name is Mihail Bușteagă, and this a simple web  app for the React internship. It's just a webpage, with Signup/Login functions using Firebase.
+              Hello! My name is Mihail Bușteagă, and this is a simple web app for the React internship. It's just a webpage, with Signup/Login/Logout functions using Firebase.
             </p>
           </div>
         </div>
